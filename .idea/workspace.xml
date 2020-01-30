@@ -28,8 +28,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/de/kohnlehome/mergesort/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+            <state relative-caret-position="493">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#721#722#0" expanded="true" />
+                <element signature="e#748#749#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,6 +69,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -87,6 +94,7 @@
     <option name="width" value="845" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -159,6 +167,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
@@ -232,6 +241,9 @@
     <history-entry file="MergeSortTest - 2020.01.30 at 10h 25m 26s.xml">
       <configuration name="MergeSortTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MergeSortTest - 2020.01.30 at 10h 38m 58s.xml">
+      <configuration name="MergeSortTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -299,8 +311,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/de/kohnlehome/mergesort/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
